@@ -1,0 +1,22 @@
+The use of traffic lights allows everyone to cross the intersection point one at a time, reducing disputes between vehicles approaching from various directions. It ensures road safety while also assisting in the straightforward resolution of traffic congestion.
+Traffic lights come in a variety of colours. Each light has a purpose, and these lights instruct drivers on how to proceed.
+
+✅Red light ON- A driver should stop.
+✅Yellow light ON- A driver has to slow down and be ready to stop.
+✅Green light ON- A driver can start driving or keep driving.
+
+--->Advantages
+=This system’s traffic light controller can be used in practice, and it can be expanded further by you.
+=A crosswalk signalling mechanism is included in this traffic light controller.
+=External memory can be interfaced with the central controller, allowing the timings to be programmed during operation rather than during programming.
+
+--->Disadvantages
+=The project is not intended for actual implementation, but more as a demonstration of the system’s process.
+=The project can be run manually or with the help of pre-programmed activities. It is unable to function in both directions.
+=The operator of a real-time traffic control system has the ability to adjust the timings and intensity of each lane’s traffic signal.
+
+--->FUTURE SCOPE
+=In the future, the model ambulance can be able to communicate with all base stations to get an easy free lane, to rush up reaching the hospital on time for needy people.
+=An IOT-based real-time traffic monitoring system is proposed for the dynamic handling of traffic signals based on traffic density.
+=Provides a real-time dashboard to monitor the traffic updates.
+=This can save their time expansion for reaching the proposed destination and can prevent the loss of human life up to the great extent
